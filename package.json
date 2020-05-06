@@ -37,8 +37,13 @@
       "plugin:prettier/recommended"
     ],
     "env": {
-      "es6": true,
       "node": true
+    },
+    "parserOptions": {
+      "ecmaVersion": 9
     }
+  },
+  "dependencies": {
+    "path-to-regexp": "^6.1.0"
   }
 }
