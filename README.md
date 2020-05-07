@@ -1,4 +1,4 @@
-# @ct0r/micro-router
+# ct0r/micro-router
 
 A minimalistic router for [zeit/micro].
 
