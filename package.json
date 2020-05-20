@@ -1,6 +1,6 @@
 {
   "name": "@ct0r/micro-router",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "A minimalistic router for zeit/micro",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,9 @@
     "url": "https://github.com/ct0r/node-micro-router/issues"
   },
   "homepage": "https://github.com/ct0r/node-micro-router#readme",
+  "dependencies": {
+    "path-to-regexp": "^6.1.0"
+  },
   "devDependencies": {
     "ava": "^3.8.1",
     "eslint": "^6.8.0",
@@ -42,8 +45,5 @@
     "parserOptions": {
       "ecmaVersion": 9
     }
-  },
-  "dependencies": {
-    "path-to-regexp": "^6.1.0"
   }
 }
