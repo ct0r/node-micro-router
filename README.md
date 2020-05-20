@@ -5,7 +5,7 @@ A minimalistic router for [zeit/micro].
 ## Installation
 
 ```bash
-npm install @ct0r/micro-router
+npm install ct0r/node-micro-router#semver:0.1.0
 ```
 
 ## Usage
