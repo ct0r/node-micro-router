@@ -1,6 +1,6 @@
 {
   "name": "@ct0r/micro-router",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A minimalistic router for zeit/micro",
   "main": "index.js",
   "scripts": {
